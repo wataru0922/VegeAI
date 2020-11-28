@@ -30,9 +30,9 @@ def upload_file():
     <html>
     <head>
     <meta charset="UTF-8">
-    <title>ファイルをアップロードして判定しよう</title></head>
+    <title>ファイルをアップロードして判定</title></head>
     <body>
-    <h1>ファイルをアップロードして判定しよう！</h1>
+    <h1>ファイルをアップロードして判定</h1>
     <form method = post enctype = multipart/form-data>
     <p><input type=file name=file>
     <input type=submit value=Upload>
