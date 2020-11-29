@@ -3,7 +3,7 @@ from urllib.request import urlretrieve
 from pprint import pprint
 import os,time,sys
 
-key ="1e0b87dacf3f2e8755fc9154351a0cbd"
+key =""
 secret = "f2e682da42af9181"
 wait_time = 0.5
 
