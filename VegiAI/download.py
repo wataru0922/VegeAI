@@ -4,7 +4,7 @@ from pprint import pprint
 import os,time,sys
 
 key =""
-secret = "f2e682da42af9181"
+secret = ""
 wait_time = 0.5
 
 vegitable_name= sys.argv[1]
